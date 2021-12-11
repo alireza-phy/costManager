@@ -1,0 +1,17 @@
+.headerContainer {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.filterSum {
+    display: inline-block;
+    width: 40vw;
+    height: 40vh;
+    background-color: darkgray;
+}
+.image {
+    display: inline-block;
+    width: 40vw;
+    height: 40vh;
+    background-color: greenyellow;
+}
